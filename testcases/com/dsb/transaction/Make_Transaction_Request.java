@@ -35,8 +35,8 @@ public class Make_Transaction_Request extends BaseTest {
         projectPath = System.getProperty("user.dir");
         fileName = "aaa.jpg";
         uploadFilePath = projectPath + File.separator + "uploadFiles" + File.separator + fileName;
-        userName = "ipa\\a.ae";
-        password = "Dsb@2024";
+        userName = "";
+        password = "";
         customerId = "0002015332";
         accountNo = "0002014733";
         amount = "2,222,222,222";
